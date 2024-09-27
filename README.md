@@ -1,2 +1,2 @@
 # machine-learning
-A machine learning library implemented in c++
+A machine learning library implemented in c.
